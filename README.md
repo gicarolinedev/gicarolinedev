@@ -1,13 +1,13 @@
-# Olá, eu sou a Giovanna! 👩‍💻
+# Hi there! I'm Giovanna 👩‍💻
 
-Sou desenvolvedora front-end com foco em **acessibilidade** e **inclusão**. Atualmente, estou explorando o mundo do **back-end** com Node.js e MongoDB.
+ am a front-end developer with a focus on accessibility and inclusion. Currently, I am exploring the world of back-end with Node.js and MongoDB.
 
-🔧 Tecnologias que estou aprendendo:
+🔧 Technologies I am learning:
 - HTML, CSS, JavaScript
 - React, Tailwind CSS
 - Node.js, Express, MongoDB
 
-🌍 Encontrar-me em:
+🌍 Found me in: 
 - [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)
 - [Instagram](https://www.instagram.com/giocarolinec/)
 - [Twitter](https://twitter.com/gi_caroline)
@@ -15,7 +15,7 @@ Sou desenvolvedora front-end com foco em **acessibilidade** e **inclusão**. Atu
 ## Projetos Destacados
 
 ### [Dev Hacks](https://github.com/gicarolinedev/dev-hacks)
-Uma plataforma com soluções rápidas para problemas comuns de desenvolvimento.
+A quick solutions plataform for common development problems.
 
 ### [API de Tarefas](https://github.com/gicarolinedev/todolist-api)
 Uma API de tarefas simples construída com Node.js e MongoDB.
