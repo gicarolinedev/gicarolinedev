@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Giovanna! 👩‍💻
 
-<!--
-**gicarolinedev/gicarolinedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedora front-end com foco em **acessibilidade** e **inclusão**. Atualmente, estou explorando o mundo do **back-end** com Node.js e MongoDB.
 
-Here are some ideas to get you started:
+🔧 Tecnologias que estou aprendendo:
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
+- Node.js, Express, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Encontrar-me em:
+- [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)
+- [Instagram](https://www.instagram.com/giocarolinec/)
+- [Twitter](https://twitter.com/gi_caroline)
+
+## Projetos Destacados
+
+### [Dev Hacks](https://github.com/gicarolinedev/dev-hacks)
+Uma plataforma com soluções rápidas para problemas comuns de desenvolvimento.
+
+### [API de Tarefas](https://github.com/gicarolinedev/todolist-api)
+Uma API de tarefas simples construída com Node.js e MongoDB.
+
+![Giovanna](https://github.com/gicarolinedev/meu-portfolio/blob/main/assets/images/aboutme.png?raw=true)
