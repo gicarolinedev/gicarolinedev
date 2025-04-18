@@ -1,6 +1,6 @@
 ![Giovanna](https://github.com/gicarolinedev/meu-portfolio/blob/main/assets/images/aboutme.png?raw=true =300x300)
 
-Hi there! I'm Giovanna 👩‍💻
+# Hi there! I'm Giovanna 👩‍💻
 
 
  I am a front-end developer with a focus on accessibility and inclusion. Currently, I am exploring the world of back-end with Node.js and MongoDB.
