@@ -14,7 +14,7 @@
 - [Instagram](https://www.instagram.com/giocarolinec/)
 - [Twitter](https://twitter.com/gi_caroline)
 
-## Projetos Destacados
+## Main Projects
 
 ### [Dev Hacks](https://github.com/gicarolinedev/dev-hacks)
 A quick solutions plataform for common development problems.
