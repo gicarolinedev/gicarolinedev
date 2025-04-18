@@ -2,7 +2,7 @@
   <img src="https://github.com/gicarolinedev/meu-portfolio/blob/main/assets/images/aboutme.png?raw=true" alt="Giovanna" width="300" height="300" style="margin-right: 20px;">
 </div>
 
-# I’m a front-end developer on a mission to make the web more accessible and inclusive.
+# I’m a front-end developer on a mission to make technology more accessible and inclusive.
 
 🔧 Technologies I am learning:
 - HTML, CSS, JavaScript
