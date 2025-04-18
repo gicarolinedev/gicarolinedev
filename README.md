@@ -1,8 +1,9 @@
-<img src="https://github.com/gicarolinedev/meu-portfolio/blob/main/assets/images/aboutme.png?raw=true" alt="Giovanna" width="300" height="300">
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/gicarolinedev/meu-portfolio/blob/main/assets/images/aboutme.png?raw=true" alt="Giovanna" width="150" height="150" style="margin-right: 20px;">
+  <h1>Hi there! I'm Giovanna 👩‍💻</h1>
+</div>
 
-# Hi there! I'm Giovanna 👩‍💻
-
- am a front-end developer with a focus on accessibility and inclusion. Currently, I am exploring the world of back-end with Node.js and MongoDB.
+ I am a front-end developer with a focus on accessibility and inclusion. Currently, I am exploring the world of back-end with Node.js and MongoDB.
 
 🔧 Technologies I am learning:
 - HTML, CSS, JavaScript
