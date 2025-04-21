@@ -7,7 +7,7 @@
 🔧 Technologies I am learning:
 - HTML, CSS, JavaScript
 - React, Tailwind CSS
-- Node.js, Express, MongoDB
+- Node.js, Express, MySQL
 
 🌍 Found me in: 
 - [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)
