@@ -12,7 +12,6 @@
 🌍 Found me in: 
 - [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)
 - [Instagram](https://www.instagram.com/giocarolinec/)
-- [Twitter](https://twitter.com/gi_caroline)
 
 ## Main Projects
 
