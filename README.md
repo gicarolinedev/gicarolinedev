@@ -11,4 +11,16 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20"/> Tailwind CSS  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Express  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL  
+
+🌍 Found me in:  
+- [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)  
+- [Instagram](https://www.instagram.com/giocarolinec/)
+
+## My Learning Journey
+
+I'm on a continuous journey to grow as a developer. Right now, I’m diving deep into front-end frameworks, practicing problem-solving, and collaborating on small projects to strengthen my skills.
+
+I’m passionate about creating inclusive digital experiences, and I believe technology is a powerful tool for social change.
