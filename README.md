@@ -5,20 +5,10 @@
 # I’m a front-end developer on a mission to make technology more accessible and inclusive.
 
 🔧 Technologies I am learning:
-- HTML, CSS, JavaScript
-- React, Tailwind CSS
-- Node.js, Express, MySQL
 
-🌍 Found me in: 
-- [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)
-- [Instagram](https://www.instagram.com/giocarolinec/)
-
-## Main Projects
-
-### [Dev Hacks](https://github.com/gicarolinedev/dev-hacks)
-A quick solutions plataform for common development problems.
-
-### [API de Tarefas](https://github.com/gicarolinedev/todolist-api)
-Uma API de tarefas simples construída com Node.js e MongoDB.
-
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20"/> Tailwind CSS  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original
