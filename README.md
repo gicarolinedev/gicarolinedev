@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </div>
 
+<br>
 🌍 Found me in:  
 - [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)  
 - [Instagram](https://www.instagram.com/giocarolinec/)
@@ -28,3 +29,4 @@
 I'm on a continuous journey to grow as a developer. Right now, I’m diving deep into front-end frameworks, practicing problem-solving, and collaborating on small projects to strengthen my skills.
 
 I’m passionate about creating inclusive digital experiences, and I believe technology is a powerful tool for social change.
+</br>
