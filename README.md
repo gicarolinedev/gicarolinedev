@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </div>
 
-<br>
+
 🌍 Found me in:  
 - [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)  
 - [Instagram](https://www.instagram.com/giocarolinec/)
