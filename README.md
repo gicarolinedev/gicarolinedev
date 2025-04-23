@@ -26,7 +26,7 @@
 
 ## My Learning Journey
 
-I'm on a continuous journey to grow as a developer. Right now, I’m diving deep into front-end frameworks, practicing problem-solving, and collaborating on small projects to strengthen my skills.
+I'm always looking to level up as a dev. Lately, I’ve been diving into front-end frameworks, sharpening my problem-solving skills, and teaming up on small projects to keep learning and growing.
 
-I’m passionate about creating inclusive digital experiences, and I believe technology is a powerful tool for social change.
+I'm all about building inclusive digital experiences, and I really believe tech can be a game-changer when it comes to driving social impact.
 </br>
