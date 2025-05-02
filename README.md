@@ -19,8 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </div>
 
-<div style="display: flex; align-items: cener; gap: 15px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
+
 🔧 Technologies I have mastered:
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
 </div>
 
