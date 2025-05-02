@@ -19,6 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </div>
 
+🔧 Technologies I have mastered:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+
 
 🌍 Found me in:  
 - [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)  
