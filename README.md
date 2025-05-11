@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/gicarolinedev/meu-portfolio/blob/main/assets/images/aboutme.png?raw=true" alt="Giovanna" width="300" height="300" style="margin-right: 20px;">
+  <img src="https://github.com/gicarolinedev/meu-portfolio/blob/main/assets/images/aboutme.png?raw=true" width="300" height="300" style="margin-right: 20px;">
 </div>
 
 # I’m a developer on a mission to make technology more accessible and inclusive.
