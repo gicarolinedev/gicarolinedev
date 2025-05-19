@@ -2,9 +2,9 @@
   <img src="https://github.com/gicarolinedev/gicarolinedev/blob/main/assets/images/aboutme.png?raw=true" width="300" height="300" style="margin-right: 20px;">
 </div>
 
-# I’m a developer on a mission to make technology more accessible and inclusive.
+#  I’m a developer on a mission to make technology more accessible and inclusive.
 
-# 🔧 Technologies I am learning:
+  🔧 Technologies I am learning:
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -20,13 +20,13 @@
 </div>
 
 
-#  🔧 Technologies I am skilled in:
+🔧 Technologies I am skilled in:
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
 </div>
 
 
-🌍 Found me in:  
+# # 🌍 Found me in:  
 - [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)  
 - [Instagram](https://www.instagram.com/giocarolinec/)
 
