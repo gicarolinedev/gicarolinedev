@@ -33,8 +33,7 @@
 [<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/>](https://www.instagram.com/giocarolinec/)
 
 
-# 
-# My Learning Journey
+## My Learning Journey
 
 I'm always looking to level up as a dev. Lately, I’ve been diving into front-end frameworks, sharpening my problem-solving skills, and teaming up on small projects to keep learning and growing.
 
