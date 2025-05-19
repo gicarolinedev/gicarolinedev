@@ -4,7 +4,7 @@
 
 #  I’m a developer on a mission to make technology more accessible and inclusive.
 
-  🔧 Technologies I am learning:
+  # 🔧 Technologies I am learning:
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -19,18 +19,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </div>
 
-***
 
-
-🔧 Technologies I am skilled in:
+# 🔧 Technologies I am skilled in:
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
 </div>
 
-___
 
 
-🌍 Found me in:  
+# 🌍 Found me in:  
  [<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)
 [<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/>](https://www.instagram.com/giocarolinec/)
 
