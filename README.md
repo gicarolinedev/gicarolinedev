@@ -34,7 +34,7 @@
 
 
 # 
-My Learning Journey
+# My Learning Journey
 
 I'm always looking to level up as a dev. Lately, I’ve been diving into front-end frameworks, sharpening my problem-solving skills, and teaming up on small projects to keep learning and growing.
 
