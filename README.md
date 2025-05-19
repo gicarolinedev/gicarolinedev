@@ -4,7 +4,6 @@
 
 #  I’m a developer on a mission to make technology more accessible and inclusive.
 
-#
   🔧 Technologies I am learning:
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
