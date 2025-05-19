@@ -26,9 +26,9 @@
 </div>
 
 
-# # 🌍 Found me in:  
-- [LinkedIn](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)  
-- [Instagram](https://www.instagram.com/giocarolinec/)
+🌍 Found me in:  
+- [![LinkedIn](https://cdn.simpleicons.org/linkedin/0077B5?size=20)](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)  
+- [![Instagram](https://cdn.simpleicons.org/instagram/E4405F?size=20)](https://www.instagram.com/giocarolinec/)
 
 ## My Learning Journey
 
