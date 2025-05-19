@@ -19,14 +19,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </div>
 
--
+--
 
 🔧 Technologies I am skilled in:
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
 </div>
 
--
+--
 
 🌍 Found me in:  
  [<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>](https://www.linkedin.com/in/giovanna-caroline-11875b2b8/)
